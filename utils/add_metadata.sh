@@ -57,6 +57,6 @@ fi
 
 outPath="./wordlists/${collection_ascii// /_}/${title_ascii// /_}.json"
 echo "Saving new story at ${outPath}"
-mkdir -p "./wordlists/${collection_ascii}"
+mkdir -p "./wordlists/${collection_ascii// /_}"
 
 jq --arg title "$title" --arg collection "$collection" '{title: $title, collection: $collection, words: .}' "$1" > "$outPath"
