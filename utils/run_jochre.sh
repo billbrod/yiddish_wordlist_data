@@ -6,14 +6,15 @@ Help()
    # Display Help
    echo "Use Jochre to run optical character recognition (OCR) on Yiddish text. See readme for details."
    echo
-   echo "Syntax: run_jochre [-h] input_path outDir"
+   echo "Syntax: run_jochre [-h] inputPath outDir [other_args]"
    echo
    echo "positional arguments:"
    echo "  inputPath     Path to the pdf to run Jochre on"
    echo "  outDir        Path to the folder to save output in"
+   echo "  other_args    Additional arguments passed directly to jochre"
    echo
    echo "options:"
-   echo "  -h             Print this Help."
+   echo "  -h            Print this Help."
    echo
 }
 while getopts ":h" option; do
@@ -30,4 +31,4 @@ done
 JOCHRE_BIN=$(ls jochre/bin/jochre-yiddish-*.jar)
 JOCHRE_LEXICON=$(ls jochre/resources/jochre-yiddish-lexicon-*.zip)
 
-java -jar -Xmx3G $JOCHRE_BIN command=analyseFile file=$1 outDir=$2 lexicon=$JOCHRE_LEXICON letterModel=jochre/resources/yiddish_letter_model.zip outputFormat=Text
+java -jar -Xmx3G $JOCHRE_BIN command=analyseFile file=$1 outDir=$2 lexicon=$JOCHRE_LEXICON letterModel=jochre/resources/yiddish_letter_model.zip outputFormat=Text "${@:3}"
