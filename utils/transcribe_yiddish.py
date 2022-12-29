@@ -26,6 +26,10 @@ def main(words):
     -------
     transcribed : str
         The transcribed string.
+    uni_to_yivo : bool
+        If True, `words` was unicode (Hebrew letters) and thus `transcribed` is
+        the yivo transliteration. If False, `words` was ascii (Latin letters)
+        and thus `transcribed` is the Yiddish in Hebrew letters.
 
     """
     try:
@@ -47,13 +51,20 @@ def main(words):
     browser.find_element('xpath', '//input[@type="submit" and @value="Submit"]').click()
     soup = BeautifulSoup(browser.page_source, 'html.parser')
     if uni_to_yivo:
-        return soup.find('pre').text.strip()
+        words = soup.find('pre').text.strip()
     else:
-        return soup.find('p').text.replace('\n', '').replace('\u200f', '').strip()
+        words = soup.find('p').text.replace('\n', '').replace('\u200f', '').strip()
+    return words, uni_to_yivo
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Transcribe Unicode to YIVO or vice versa.")
     parser.add_argument('words', help="The words to transcribe.")
     args = vars(parser.parse_args())
-    print(main(**args))
+    if ';' in args['words']:
+        raise ValueError("words cannot contain a semicolor (;), since we use this for parsing the output!")
+    words, uni_to_yivo = main(**args)
+    if uni_to_yivo:
+        print(words + ';yivo')
+    else:
+        print(words + ';unicode')
