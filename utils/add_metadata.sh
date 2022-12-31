@@ -60,3 +60,5 @@ echo "Saving new story at ${outPath}"
 mkdir -p "./wordlists/${collection_ascii// /_}"
 
 jq --arg title "$title" --arg collection "$collection" '{title: $title, collection: $collection, words: .}' "$1" > "$outPath"
+github_url="https://raw.githubusercontent.com/billbrod/yiddish_wordlist_data/main/wordlists/${collection_ascii// /_}/${title_ascii// /_}.json"
+jq --arg url "$github_url" --arg title "$title" --arg collection "$collection" '.[$collection][$title] = $url' contents.json | sponge contents.json
