@@ -30,7 +30,11 @@
             "lexeme": "boy-felik"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פרייד": {
       "index": [
@@ -60,7 +64,11 @@
             "lexeme": "freyd"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "טייך": {
       "index": [
@@ -96,7 +104,11 @@
             "lexeme": "taykh"
           }
         ]
-      }
+      },
+      "count (collection)": 17,
+      "count (all)": 17,
+      "frequency (collection)": 0.0058079945336522035,
+      "frequency (all)": 0.0058079945336522035
     },
     "רופט": {
       "index": [
@@ -136,7 +148,11 @@
             "lexeme": "ruf im knaknisl"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "געטומלט": {
       "index": [
@@ -166,7 +182,11 @@
             "lexeme": "tuml"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שלעפן": {
       "index": [
@@ -175,7 +195,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "יאָ": {
       "index": [
@@ -248,7 +272,11 @@
             "lexeme": "yo"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "אויפהייבן": {
       "index": [
@@ -270,7 +298,11 @@
             "lexeme": "heyb"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַלע": {
       "index": [
@@ -352,7 +384,11 @@
             "lexeme": "nokh ale ha|yoyms"
           }
         ]
-      }
+      },
+      "count (collection)": 11,
+      "count (all)": 11,
+      "frequency (collection)": 0.0037581141100102495,
+      "frequency (all)": 0.0037581141100102495
     },
     "אַז": {
       "index": [
@@ -432,7 +468,11 @@
             "lexeme": "az"
           }
         ]
-      }
+      },
+      "count (collection)": 22,
+      "count (all)": 22,
+      "frequency (collection)": 0.007516228220020499,
+      "frequency (all)": 0.007516228220020499
     },
     "געמאַכט": {
       "index": [
@@ -470,7 +510,11 @@
         "transliteration": "gemakht",
         "stem": "gemakht makh",
         "definitions": []
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "נייגעריק": {
       "index": [
@@ -492,7 +536,11 @@
             "lexeme": "nayger"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "הילל": {
       "index": [
@@ -514,7 +562,11 @@
       "count (story)": 14,
       "frequency (story)": 0.009510869565217392,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 27,
+      "count (all)": 27,
+      "frequency (collection)": 0.009224461906388794,
+      "frequency (all)": 0.009224461906388794
     },
     "אַוועקצושטעלן": {
       "index": [
@@ -560,7 +612,11 @@
             "lexeme": "shtel-fartreter"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פורן": {
       "index": [
@@ -586,7 +642,11 @@
             "lexeme": "fur"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "בּאַפן": {
       "index": [
@@ -595,7 +655,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אָן": {
       "index": [
@@ -702,7 +766,11 @@
             "lexeme": "ze-khush"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "שרייבן": {
       "index": [
@@ -747,7 +815,11 @@
             "lexeme": "shrayb"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אָפּ": {
       "index": [
@@ -803,7 +875,11 @@
             "lexeme": "op"
           }
         ]
-      }
+      },
+      "count (collection)": 8,
+      "count (all)": 8,
+      "frequency (collection)": 0.0027331738981892723,
+      "frequency (all)": 0.0027331738981892723
     },
     "לעקעשעוואַטע": {
       "index": [
@@ -812,7 +888,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "בוימייסטעריס": {
       "index": [
@@ -821,7 +901,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַטש": {
       "index": [
@@ -830,7 +914,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַראָפּ": {
       "index": [
@@ -950,7 +1038,11 @@
             "lexeme": "shtrikh arop/aroyf"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "קוקט": {
       "index": [
@@ -995,7 +1087,11 @@
             "lexeme": "kuk"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "איז": {
       "index": [
@@ -1260,7 +1356,11 @@
             "lexeme": "mayn gants lebn iz ..."
           }
         ]
-      }
+      },
+      "count (collection)": 41,
+      "count (all)": 41,
+      "frequency (collection)": 0.01400751622822002,
+      "frequency (all)": 0.01400751622822002
     },
     "צעבערס": {
       "index": [
@@ -1285,7 +1385,11 @@
             "lexeme": "tsebre"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "געלט": {
       "index": [
@@ -1388,7 +1492,11 @@
             "lexeme": "on)nemen far gut gelt"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "וואַלץ": {
       "index": [
@@ -1418,7 +1526,11 @@
             "lexeme": "valts"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "וועלן": {
       "index": [
@@ -1516,7 +1628,11 @@
             "lexeme": "vil"
           }
         ]
-      }
+      },
+      "count (collection)": 26,
+      "count (all)": 26,
+      "frequency (collection)": 0.008882815169115136,
+      "frequency (all)": 0.008882815169115136
     },
     "פויסט": {
       "index": [
@@ -1538,7 +1654,11 @@
             "lexeme": "foyst"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַרפלייצט": {
       "index": [
@@ -1560,7 +1680,11 @@
             "lexeme": "farfleyts"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "דאָרטן": {
       "index": [
@@ -1605,7 +1729,11 @@
             "lexeme": "dort dortn"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פראָסטע": {
       "index": [
@@ -1614,7 +1742,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "הימל": {
       "index": [
@@ -1705,7 +1837,11 @@
             "lexeme": "himl"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "דעמבענעם": {
       "index": [
@@ -1727,7 +1863,11 @@
             "lexeme": "demb"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "לאָך": {
       "index": [
@@ -1789,7 +1929,11 @@
             "lexeme": "lokh"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אין": {
       "index": [
@@ -1854,7 +1998,11 @@
         "transliteration": "in",
         "stem": "in",
         "definitions": []
-      }
+      },
+      "count (collection)": 48,
+      "count (all)": 48,
+      "frequency (collection)": 0.016399043389135635,
+      "frequency (all)": 0.016399043389135635
     },
     "פערד": {
       "index": [
@@ -1895,7 +2043,11 @@
             "lexeme": "ferd"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "זנס": {
       "index": [
@@ -1904,7 +2056,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַמאָל": {
       "index": [
@@ -1949,7 +2105,11 @@
             "lexeme": "mol"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "פאַיעטאָנדל": {
       "index": [
@@ -1958,7 +2118,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַרטיק": {
       "index": [
@@ -1996,7 +2160,11 @@
             "lexeme": "fartik"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אויסגעשריען": {
       "index": [
@@ -2026,7 +2194,11 @@
             "lexeme": "shray"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "זיין": {
       "index": [
@@ -2084,7 +2256,11 @@
             "lexeme": "zayen"
           }
         ]
-      }
+      },
+      "count (collection)": 7,
+      "count (all)": 7,
+      "frequency (collection)": 0.0023915271609156134,
+      "frequency (all)": 0.0023915271609156134
     },
     "זאַך": {
       "index": [
@@ -2169,7 +2345,11 @@
             "lexeme": "a got|s zakh"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַ": {
       "index": [
@@ -2247,7 +2427,11 @@
         "transliteration": "a",
         "stem": "a",
         "definitions": []
-      }
+      },
+      "count (collection)": 87,
+      "count (all)": 87,
+      "frequency (collection)": 0.029723266142808336,
+      "frequency (all)": 0.029723266142808336
     },
     "כעלט": {
       "index": [
@@ -2256,7 +2440,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "אָנצוקוקן": {
       "index": [
@@ -2278,7 +2466,11 @@
             "lexeme": "kuk"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "ווי": {
       "index": [
@@ -2760,7 +2952,11 @@
             "lexeme": "vi tsvey tropns vaser"
           }
         ]
-      }
+      },
+      "count (collection)": 17,
+      "count (all)": 17,
+      "frequency (collection)": 0.0058079945336522035,
+      "frequency (all)": 0.0058079945336522035
     },
     "באַלמעלאָכעס": {
       "index": [
@@ -2782,7 +2978,11 @@
             "lexeme": "balmelokhe"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "לעצטע": {
       "index": [
@@ -2812,7 +3012,11 @@
             "lexeme": "letst"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "קעלניע": {
       "index": [
@@ -2834,7 +3038,11 @@
             "lexeme": "kelnye"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פולע": {
       "index": [
@@ -2883,7 +3091,11 @@
             "lexeme": "ful vi an oyg = ful mitn oyg = ful bizn oyg"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "ווידער": {
       "index": [
@@ -2974,7 +3186,11 @@
             "lexeme": "vider"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "אַריינגעקלאַפּט": {
       "index": [
@@ -3012,7 +3228,11 @@
             "lexeme": "mit eyn klap"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אָנגעשאָטן": {
       "index": [
@@ -3034,7 +3254,11 @@
             "lexeme": "shit"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שטערן": {
       "index": [
@@ -3153,7 +3377,11 @@
             "lexeme": "shtern"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "עכ": {
       "index": [
@@ -3175,7 +3403,11 @@
             "lexeme": "shtopsl"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "מילשטיין": {
       "index": [
@@ -3197,7 +3429,11 @@
             "lexeme": "milshteyn"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "דאַר": {
       "index": [
@@ -3229,7 +3465,11 @@
             "lexeme": "dar"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "באַשליסן": {
       "index": [
@@ -3274,7 +3514,11 @@
             "lexeme": "bashlis"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "לייט": {
       "index": [
@@ -3314,7 +3558,11 @@
             "lexeme": "leyt-instrume'nt"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "זיינע": {
       "index": [
@@ -3488,7 +3736,11 @@
             "lexeme": "zayn oyf probe = hobn probe"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פינף": {
       "index": [
@@ -3514,7 +3766,11 @@
             "lexeme": "finf"
           }
         ]
-      }
+      },
+      "count (collection)": 7,
+      "count (all)": 7,
+      "frequency (collection)": 0.0023915271609156134,
+      "frequency (all)": 0.0023915271609156134
     },
     "אַריינגיסן": {
       "index": [
@@ -3536,7 +3792,11 @@
             "lexeme": "gis"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "מיר": {
       "index": [
@@ -3754,7 +4014,11 @@
             "lexeme": "a klog tsu mir"
           }
         ]
-      }
+      },
+      "count (collection)": 24,
+      "count (all)": 24,
+      "frequency (collection)": 0.008199521694567818,
+      "frequency (all)": 0.008199521694567818
     },
     "קלאַפּט": {
       "index": [
@@ -3792,7 +4056,11 @@
             "lexeme": "mit eyn klap"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַנטקעגן": {
       "index": [
@@ -3868,7 +4136,11 @@
             "lexeme": "antkegn sloy"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "רעדער": {
       "index": [
@@ -3941,7 +4213,11 @@
             "lexeme": "rod"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "געווען": {
       "index": [
@@ -3992,7 +4268,11 @@
             "lexeme": "bin bist bistu iz zay zaynen zenen zayt zent zaynt zayn geven gevezn"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "עס": {
       "index": [
@@ -4251,7 +4531,11 @@
             "lexeme": "es kvetsht zikh im"
           }
         ]
-      }
+      },
+      "count (collection)": 21,
+      "count (all)": 21,
+      "frequency (collection)": 0.00717458148274684,
+      "frequency (all)": 0.00717458148274684
     },
     "נו": {
       "index": [
@@ -4297,7 +4581,11 @@
             "lexeme": "nu anu"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "ער": {
       "index": [
@@ -4351,7 +4639,11 @@
             "lexeme": "naftfeld"
           }
         ]
-      }
+      },
+      "count (collection)": 18,
+      "count (all)": 18,
+      "frequency (collection)": 0.0061496412709258624,
+      "frequency (all)": 0.0061496412709258624
     },
     "דריי": {
       "index": [
@@ -4449,7 +4741,11 @@
             "lexeme": "drey'enish"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "שטום": {
       "index": [
@@ -4523,7 +4819,11 @@
             "lexeme": "shtum-loshn"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "געליאַרעמט": {
       "index": [
@@ -4569,7 +4869,11 @@
             "lexeme": "lyarem"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "האָלץ": {
       "index": [
@@ -4645,7 +4949,11 @@
             "lexeme": "holts|haker"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "גלאַט": {
       "index": [
@@ -4707,7 +5015,11 @@
             "lexeme": "glat azoy"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "נאָך": {
       "index": [
@@ -4887,7 +5199,11 @@
             "lexeme": "nokh dem vos"
           }
         ]
-      }
+      },
+      "count (collection)": 13,
+      "count (all)": 13,
+      "frequency (collection)": 0.004441407584557568,
+      "frequency (all)": 0.004441407584557568
     },
     "פור": {
       "index": [
@@ -4932,7 +5248,11 @@
             "lexeme": "fur"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שפּיץ": {
       "index": [
@@ -5012,7 +5332,11 @@
             "lexeme": "oyfn shpits meser"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "וואויל": {
       "index": [
@@ -5044,7 +5368,11 @@
           ]
         }
       ],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אפילו": {
       "index": [
@@ -5074,7 +5402,11 @@
             "lexeme": "afile"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ווענט": {
       "index": [
@@ -5144,7 +5476,11 @@
             "lexeme": "vant"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "גוט": {
       "index": [
@@ -5307,7 +5643,11 @@
             "lexeme": "gut"
           }
         ]
-      }
+      },
+      "count (collection)": 9,
+      "count (all)": 9,
+      "frequency (collection)": 0.0030748206354629312,
+      "frequency (all)": 0.0030748206354629312
     },
     "וואַסער": {
       "index": [
@@ -5496,7 +5836,11 @@
             "lexeme": "hobn/fardinen vaser oyf kashe"
           }
         ]
-      }
+      },
+      "count (collection)": 7,
+      "count (all)": 7,
+      "frequency (collection)": 0.0023915271609156134,
+      "frequency (all)": 0.0023915271609156134
     },
     "מעטטן": {
       "index": [
@@ -5505,7 +5849,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "צוויי": {
       "index": [
@@ -5603,7 +5951,11 @@
             "lexeme": "vi tsvey tropns vaser"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שטייט": {
       "index": [
@@ -5659,7 +6011,11 @@
             "lexeme": "shtey'endik"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "קלאַפּן": {
       "index": [
@@ -5724,7 +6080,11 @@
             "lexeme": "mit eyn klap"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "וועט": {
       "index": [
@@ -5841,7 +6201,11 @@
             "lexeme": "meynen az emetser vet untertantsn"
           }
         ]
-      }
+      },
+      "count (collection)": 9,
+      "count (all)": 9,
+      "frequency (collection)": 0.0030748206354629312,
+      "frequency (all)": 0.0030748206354629312
     },
     "ר": {
       "index": [
@@ -5852,7 +6216,11 @@
       "count (story)": 3,
       "frequency (story)": 0.0020380434782608695,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 7,
+      "count (all)": 7,
+      "frequency (collection)": 0.0023915271609156134,
+      "frequency (all)": 0.0023915271609156134
     },
     "האַרגן": {
       "index": [
@@ -5861,7 +6229,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שלעסער": {
       "index": [
@@ -5906,7 +6278,11 @@
             "lexeme": "kombinatsye-shlos"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַרמאַכט": {
       "index": [
@@ -5928,7 +6304,11 @@
             "lexeme": "farmakh"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "מיטאַמאָל": {
       "index": [
@@ -5941,7 +6321,11 @@
         "transliteration": "mitamol",
         "stem": "mitamol",
         "definitions": []
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "אוודאי": {
       "index": [
@@ -5964,7 +6348,11 @@
             "lexeme": "avade"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "ן": {
       "index": [
@@ -5997,7 +6385,11 @@
             "lexeme": "flukh"
           }
         ]
-      }
+      },
+      "count (collection)": 22,
+      "count (all)": 22,
+      "frequency (collection)": 0.007516228220020499,
+      "frequency (all)": 0.007516228220020499
     },
     "ווייט": {
       "index": [
@@ -6035,7 +6427,11 @@
             "lexeme": "vayt tsum gelekhter"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "געדרייט": {
       "index": [
@@ -6104,7 +6500,11 @@
             "lexeme": "drey'enish"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אמת": {
       "index": [
@@ -6195,7 +6595,11 @@
             "lexeme": "zogn dem reynem emes"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "געבראַכט": {
       "index": [
@@ -6218,7 +6622,11 @@
             "lexeme": "breng"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "געטראַכט": {
       "index": [
@@ -6288,7 +6696,11 @@
             "lexeme": "trakht"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "אָנזען": {
       "index": [
@@ -6318,7 +6730,11 @@
             "lexeme": "ze-khush"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פלייצעס": {
       "index": [
@@ -6327,7 +6743,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "געקלאַפּט": {
       "index": [
@@ -6365,7 +6785,11 @@
             "lexeme": "mit eyn klap"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַרגעסן": {
       "index": [
@@ -6387,7 +6811,11 @@
             "lexeme": "farges"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַלעהילל": {
       "index": [
@@ -6396,7 +6824,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "טאַקע": {
       "index": [
@@ -6460,7 +6892,11 @@
             "lexeme": "take"
           }
         ]
-      }
+      },
+      "count (collection)": 7,
+      "count (all)": 7,
+      "frequency (collection)": 0.0023915271609156134,
+      "frequency (all)": 0.0023915271609156134
     },
     "פרויען": {
       "index": [
@@ -6482,7 +6918,11 @@
             "lexeme": "froy"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "לאָזן": {
       "index": [
@@ -6543,7 +6983,11 @@
             "lexeme": "loz"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "טאָן": {
       "index": [
@@ -6702,7 +7146,11 @@
             "lexeme": "ton emetsn a mentlik"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "קומען": {
       "index": [
@@ -6765,7 +7213,11 @@
             "lexeme": "kum"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פסח": {
       "index": [
@@ -6774,7 +7226,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "טשוואָק": {
       "index": [
@@ -6796,7 +7252,11 @@
             "lexeme": "tshvok"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאָרן": {
       "index": [
@@ -6835,7 +7295,11 @@
             "lexeme": "for"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "האַלטן": {
       "index": [
@@ -6912,7 +7376,11 @@
             "lexeme": "oys|halt"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "צעפּוקעט": {
       "index": [
@@ -6921,7 +7389,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "קיין": {
       "index": [
@@ -7159,7 +7631,11 @@
             "lexeme": "nit hobn keyn tam"
           }
         ]
-      }
+      },
+      "count (collection)": 16,
+      "count (all)": 16,
+      "frequency (collection)": 0.005466347796378545,
+      "frequency (all)": 0.005466347796378545
     },
     "שוועל": {
       "index": [
@@ -7181,7 +7657,11 @@
             "lexeme": "shvel"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "געפאַרבט": {
       "index": [
@@ -7212,7 +7692,11 @@
             "lexeme": "farb"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "גנעלט": {
       "index": [
@@ -7221,7 +7705,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אויפשטעלן": {
       "index": [
@@ -7267,7 +7755,11 @@
             "lexeme": "shtel-fartreter"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "גוטע": {
       "index": [
@@ -7394,7 +7886,11 @@
             "lexeme": "gut"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "באַטאַפן": {
       "index": [
@@ -7403,7 +7899,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ניטאָ": {
       "index": [
@@ -7459,7 +7959,11 @@
             "lexeme": "nito"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "אויפגעבויט": {
       "index": [
@@ -7489,7 +7993,11 @@
             "lexeme": "boy-felik"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "פענצטער": {
       "index": [
@@ -7521,7 +8029,11 @@
             "lexeme": "fentster"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "גערופן": {
       "index": [
@@ -7559,7 +8071,11 @@
             "lexeme": "ruf im knaknisl"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַלץ": {
       "index": [
@@ -7674,7 +8190,11 @@
             "lexeme": "az der sof iz gut iz alts gut"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "צו": {
       "index": [
@@ -8076,7 +8596,11 @@
             "lexeme": "barekhtikt tsu"
           }
         ]
-      }
+      },
+      "count (collection)": 17,
+      "count (all)": 17,
+      "frequency (collection)": 0.0058079945336522035,
+      "frequency (all)": 0.0058079945336522035
     },
     "יעדער": {
       "index": [
@@ -8143,7 +8667,11 @@
             "lexeme": "yede"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "ליידיקע": {
       "index": [
@@ -8173,7 +8701,11 @@
             "lexeme": "leydik"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "מען": {
       "index": [
@@ -8271,7 +8803,11 @@
             "lexeme": "men me"
           }
         ]
-      }
+      },
+      "count (collection)": 12,
+      "count (all)": 12,
+      "frequency (collection)": 0.004099760847283909,
+      "frequency (all)": 0.004099760847283909
     },
     "ענטפערט": {
       "index": [
@@ -8303,7 +8839,11 @@
             "lexeme": "entfer"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "וואו": {
       "index": [
@@ -8335,7 +8875,11 @@
           ]
         }
       ],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "שטאָט": {
       "index": [
@@ -8400,7 +8944,11 @@
             "lexeme": "shtot"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "פאָלגן": {
       "index": [
@@ -8438,7 +8986,11 @@
             "lexeme": "folg"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "דרויסן": {
       "index": [
@@ -8493,7 +9045,11 @@
             "lexeme": "droysn"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "טומל": {
       "index": [
@@ -8546,7 +9102,11 @@
             "lexeme": "tuml"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "געעפנט": {
       "index": [
@@ -8576,7 +9136,11 @@
             "lexeme": "efn"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "גרויסע": {
       "index": [
@@ -8705,7 +9269,11 @@
             "lexeme": "groys"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "ברעט": {
       "index": [
@@ -8768,7 +9336,11 @@
             "lexeme": "elektre-bret"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "געקוקט": {
       "index": [
@@ -8813,7 +9385,11 @@
             "lexeme": "kuk"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "קורצער": {
       "index": [
@@ -8843,7 +9419,11 @@
             "lexeme": "kurts"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "בלייבט": {
       "index": [
@@ -8866,7 +9446,11 @@
             "lexeme": "blayb"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "בליישטיפט": {
       "index": [
@@ -8888,7 +9472,11 @@
             "lexeme": "blayshtift"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "האַלט": {
       "index": [
@@ -8949,7 +9537,11 @@
             "lexeme": "oys|halt"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "צעלאַכט": {
       "index": [
@@ -8971,7 +9563,11 @@
             "lexeme": "tselakh"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "גייען": {
       "index": [
@@ -9033,7 +9629,11 @@
             "lexeme": "gey'endik"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "זען": {
       "index": [
@@ -9101,7 +9701,11 @@
             "lexeme": "ze-khush"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "איינפאַל": {
       "index": [
@@ -9124,7 +9728,11 @@
             "lexeme": "aynfal"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "פרייען": {
       "index": [
@@ -9146,7 +9754,11 @@
             "lexeme": "frey"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "צוגעשטימט": {
       "index": [
@@ -9192,7 +9804,11 @@
             "lexeme": "shtim"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פירט": {
       "index": [
@@ -9255,7 +9871,11 @@
             "lexeme": "fir"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "ביז": {
       "index": [
@@ -9351,7 +9971,11 @@
             "lexeme": "biz"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַרויף": {
       "index": [
@@ -9423,7 +10047,11 @@
             "lexeme": "shtrikh arop/aroyf"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "באַלד": {
       "index": [
@@ -9486,7 +10114,11 @@
             "lexeme": "bald"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "לאָזט": {
       "index": [
@@ -9533,7 +10165,11 @@
             "lexeme": "loz"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "פון": {
       "index": [
@@ -10093,7 +10729,11 @@
             "lexeme": "haltn fun fornt"
           }
         ]
-      }
+      },
+      "count (collection)": 56,
+      "count (all)": 56,
+      "frequency (collection)": 0.019132217287324907,
+      "frequency (all)": 0.019132217287324907
     },
     "אינגאַנצן": {
       "index": [
@@ -10115,7 +10755,11 @@
             "lexeme": "ingantsn"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אָפּגעמאָלטע": {
       "index": [
@@ -10226,7 +10870,11 @@
             "lexeme": "eyn mol avek"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "העלפט": {
       "index": [
@@ -10257,7 +10905,11 @@
             "lexeme": "helf"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "דערטראַכטן": {
       "index": [
@@ -10279,7 +10931,11 @@
             "lexeme": "dertrakht"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "גייט": {
       "index": [
@@ -10367,7 +11023,11 @@
             "lexeme": "gey'endik"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "אויערן": {
       "index": [
@@ -10447,7 +11107,11 @@
             "lexeme": "oyer-lepl"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "ווערטער": {
       "index": [
@@ -10526,7 +11190,11 @@
             "lexeme": "zogn a yidish vort"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "גאַנצע": {
       "index": [
@@ -10595,7 +11263,11 @@
             "lexeme": "mayn gants lebn iz ..."
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַרוואָס": {
       "index": [
@@ -10617,7 +11289,11 @@
         "transliteration": "farvos",
         "stem": "farvos",
         "definitions": []
-      }
+      },
+      "count (collection)": 10,
+      "count (all)": 10,
+      "frequency (collection)": 0.0034164673727365906,
+      "frequency (all)": 0.0034164673727365906
     },
     "פאַרפאַלן": {
       "index": [
@@ -10640,7 +11316,11 @@
             "lexeme": "farfaln"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "שטעלט": {
       "index": [
@@ -10687,7 +11367,11 @@
             "lexeme": "shtel-fartreter"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "לאַנגער": {
       "index": [
@@ -10741,7 +11425,11 @@
             "lexeme": "vos zol ikh aykh lang brayen"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "קלימאַט": {
       "index": [
@@ -10777,7 +11465,11 @@
         "transliteration": "klimat",
         "stem": "klimat",
         "definitions": []
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "בוימייסטער": {
       "index": [
@@ -10789,7 +11481,11 @@
       "count (story)": 4,
       "frequency (story)": 0.002717391304347826,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "אַריין": {
       "index": [
@@ -10903,7 +11599,11 @@
             "lexeme": "arayn emetsn in der noz"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "קנאה": {
       "index": [
@@ -10913,7 +11613,11 @@
       "count (story)": 2,
       "frequency (story)": 0.001358695652173913,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "פרובירט": {
       "index": [
@@ -10922,7 +11626,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "כעלמער": {
       "index": [
@@ -10977,7 +11685,11 @@
           ]
         }
       ],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 58,
+      "count (all)": 58,
+      "frequency (collection)": 0.019815510761872223,
+      "frequency (all)": 0.019815510761872223
     },
     "געהאָלפן": {
       "index": [
@@ -11009,7 +11721,11 @@
             "lexeme": "helf"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "ווילט": {
       "index": [
@@ -11031,7 +11747,11 @@
             "lexeme": "vil"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "צונויף": {
       "index": [
@@ -11053,7 +11773,11 @@
             "lexeme": "tsunoyf"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "ניט": {
       "index": [
@@ -11133,7 +11857,11 @@
         "transliteration": "nit",
         "stem": "nit",
         "definitions": []
-      }
+      },
+      "count (collection)": 68,
+      "count (all)": 68,
+      "frequency (collection)": 0.023231978134608814,
+      "frequency (all)": 0.023231978134608814
     },
     "זאָלן": {
       "index": [
@@ -11268,7 +11996,11 @@
             "lexeme": "zol voyl bakumen"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "געשטאַנען": {
       "index": [
@@ -11321,7 +12053,11 @@
             "lexeme": "shtey'endik"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ליכטיקייט": {
       "index": [
@@ -11348,7 +12084,11 @@
             "lexeme": "likhtik"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "געענטפערט": {
       "index": [
@@ -11378,7 +12118,11 @@
             "lexeme": "entfer"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "העמד": {
       "index": [
@@ -11446,7 +12190,11 @@
             "lexeme": "hemd"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "מיילן": {
       "index": [
@@ -11468,7 +12216,11 @@
             "lexeme": "mayl"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ווייבער": {
       "index": [
@@ -11498,7 +12250,11 @@
             "lexeme": "man un vayb"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "ווערן": {
       "index": [
@@ -11592,7 +12348,11 @@
             "lexeme": "ver mir guts gint"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "שרייט": {
       "index": [
@@ -11614,7 +12374,11 @@
             "lexeme": "shrayt"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "זיך": {
       "index": [
@@ -12204,7 +12968,11 @@
             "lexeme": "ba)rimen zikh vi a nar, a shoyte, der khazer"
           }
         ]
-      }
+      },
+      "count (collection)": 47,
+      "count (all)": 47,
+      "frequency (collection)": 0.016057396651861976,
+      "frequency (all)": 0.016057396651861976
     },
     "באַדאַרף": {
       "index": [
@@ -12262,7 +13030,11 @@
             "lexeme": "badarf"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "ציימל": {
       "index": [
@@ -12292,7 +13064,11 @@
             "lexeme": "tsoym"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "דאָך": {
       "index": [
@@ -12340,7 +13116,11 @@
             "lexeme": "dokh"
           }
         ]
-      }
+      },
+      "count (collection)": 7,
+      "count (all)": 7,
+      "frequency (collection)": 0.0023915271609156134,
+      "frequency (all)": 0.0023915271609156134
     },
     "קאָסט": {
       "index": [
@@ -12395,7 +13175,11 @@
             "lexeme": "kost"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שעפן": {
       "index": [
@@ -12417,7 +13201,11 @@
             "lexeme": "shef"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "תבואה": {
       "index": [
@@ -12439,7 +13227,11 @@
             "lexeme": "tvue"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שיינער": {
       "index": [
@@ -12469,7 +13261,11 @@
             "lexeme": "sheyn"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "קלאַפּ": {
       "index": [
@@ -12532,7 +13328,11 @@
             "lexeme": "mit eyn klap"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "הויפט": {
       "index": [
@@ -12562,7 +13362,11 @@
             "lexeme": "hoyf"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "מילשטיינער": {
       "index": [
@@ -12586,7 +13390,11 @@
             "lexeme": "milshteyn"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "דערפאַר": {
       "index": [
@@ -12608,7 +13416,11 @@
             "lexeme": "derfar"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "קאָרן": {
       "index": [
@@ -12671,7 +13483,11 @@
             "lexeme": "korn"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "אַן": {
       "index": [
@@ -12726,7 +13542,11 @@
         "transliteration": "an",
         "stem": "a an",
         "definitions": []
-      }
+      },
+      "count (collection)": 12,
+      "count (all)": 12,
+      "frequency (collection)": 0.004099760847283909,
+      "frequency (all)": 0.004099760847283909
     },
     "איך": {
       "index": [
@@ -12840,7 +13660,11 @@
             "lexeme": "ikh hob dikh in drerd"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "וואַסערמיללאַנד": {
       "index": [
@@ -12849,7 +13673,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אָבאָז": {
       "index": [
@@ -12858,7 +13686,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "צעשטעלן": {
       "index": [
@@ -12880,7 +13712,11 @@
             "lexeme": "tseshtel"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "אויסקוקן": {
       "index": [
@@ -12902,7 +13738,11 @@
             "lexeme": "kuk"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "איינער": {
       "index": [
@@ -13028,7 +13868,11 @@
             "lexeme": "eyn"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "בוימייסטערס": {
       "index": [
@@ -13048,7 +13892,11 @@
       "count (story)": 12,
       "frequency (story)": 0.008152173913043478,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 12,
+      "count (all)": 12,
+      "frequency (collection)": 0.004099760847283909,
+      "frequency (all)": 0.004099760847283909
     },
     "מאַן": {
       "index": [
@@ -13139,7 +13987,11 @@
             "lexeme": "man un vayb"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "מאָלט": {
       "index": [
@@ -13255,7 +14107,11 @@
             "lexeme": "eyn mol avek"
           }
         ]
-      }
+      },
+      "count (collection)": 8,
+      "count (all)": 8,
+      "frequency (collection)": 0.0027331738981892723,
+      "frequency (all)": 0.0027331738981892723
     },
     "און": {
       "index": [
@@ -13710,7 +14566,11 @@
             "lexeme": "eyner hot lib dem rebn, un der anderer di rebitsin"
           }
         ]
-      }
+      },
+      "count (collection)": 105,
+      "count (all)": 105,
+      "frequency (collection)": 0.0358729074137342,
+      "frequency (all)": 0.0358729074137342
     },
     "פעסלעך": {
       "index": [
@@ -13740,7 +14600,11 @@
             "lexeme": "fas"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "געמאָלן": {
       "index": [
@@ -13850,7 +14714,11 @@
             "lexeme": "eyn mol avek"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "באַרג": {
       "index": [
@@ -13914,7 +14782,11 @@
             "lexeme": "barg"
           }
         ]
-      }
+      },
+      "count (collection)": 7,
+      "count (all)": 7,
+      "frequency (collection)": 0.0023915271609156134,
+      "frequency (all)": 0.0023915271609156134
     },
     "פאַסט": {
       "index": [
@@ -13944,7 +14816,11 @@
             "lexeme": "fas"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "קלוגע": {
       "index": [
@@ -13999,7 +14875,11 @@
             "lexeme": "gut/klug/sheyn vi di velt"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "גענוג": {
       "index": [
@@ -14073,7 +14953,11 @@
             "lexeme": "genug"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "אינמיטן": {
       "index": [
@@ -14118,7 +15002,11 @@
             "lexeme": "inmitn"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "העלפן": {
       "index": [
@@ -14148,7 +15036,11 @@
             "lexeme": "helf"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "טאָג": {
       "index": [
@@ -14289,7 +15181,11 @@
             "lexeme": "heler tog"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "דאָס": {
       "index": [
@@ -14551,7 +15447,11 @@
             "lexeme": "er hot in mir dos gehay"
           }
         ]
-      }
+      },
+      "count (collection)": 11,
+      "count (all)": 11,
+      "frequency (collection)": 0.0037581141100102495,
+      "frequency (all)": 0.0037581141100102495
     },
     "וואָס": {
       "index": [
@@ -14737,7 +15637,11 @@
             "lexeme": "vos zol ikh aykh lang brayen"
           }
         ]
-      }
+      },
+      "count (collection)": 21,
+      "count (all)": 21,
+      "frequency (collection)": 0.00717458148274684,
+      "frequency (all)": 0.00717458148274684
     },
     "פעלט": {
       "index": [
@@ -14768,7 +15672,11 @@
             "lexeme": "fel"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "מאָדנע": {
       "index": [
@@ -14819,7 +15727,11 @@
             "lexeme": "modne"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "גרעסטע": {
       "index": [
@@ -14921,7 +15833,11 @@
             "lexeme": "groys"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "רייסט": {
       "index": [
@@ -14943,7 +15859,11 @@
             "lexeme": "rays"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "לעבן": {
       "index": [
@@ -15046,7 +15966,11 @@
             "lexeme": "leb"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "הענטל": {
       "index": [
@@ -15117,7 +16041,11 @@
             "lexeme": "fun der ershter hant"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "וואַסערמיל": {
       "index": [
@@ -15161,7 +16089,11 @@
             "lexeme": "vasermil"
           }
         ]
-      }
+      },
+      "count (collection)": 24,
+      "count (all)": 24,
+      "frequency (collection)": 0.008199521694567818,
+      "frequency (all)": 0.008199521694567818
     },
     "זעט": {
       "index": [
@@ -15214,7 +16146,11 @@
             "lexeme": "ze-khush"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "רויט": {
       "index": [
@@ -15272,7 +16208,11 @@
             "lexeme": "royt"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "זאָל": {
       "index": [
@@ -15406,7 +16346,11 @@
             "lexeme": "zol voyl bakumen"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "נאַשפּיץ": {
       "index": [
@@ -15428,7 +16372,11 @@
             "lexeme": "nashpits"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַררופן": {
       "index": [
@@ -15450,7 +16398,11 @@
             "lexeme": "farruf"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "מאָלן": {
       "index": [
@@ -15617,7 +16569,11 @@
             "lexeme": "eyn mol avek"
           }
         ]
-      }
+      },
+      "count (collection)": 13,
+      "count (all)": 13,
+      "frequency (collection)": 0.004441407584557568,
+      "frequency (all)": 0.004441407584557568
     },
     "פריץ": {
       "index": [
@@ -15626,7 +16582,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "דרייען": {
       "index": [
@@ -15703,7 +16663,11 @@
             "lexeme": "drey'enish"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "דאַך": {
       "index": [
@@ -15752,7 +16716,11 @@
             "lexeme": "dakh"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "אויס": {
       "index": [
@@ -15886,7 +16854,11 @@
             "lexeme": "es bayt zikh gornit oys"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "דזאָט": {
       "index": [
@@ -15895,7 +16867,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַליין": {
       "index": [
@@ -15973,7 +16949,11 @@
             "lexeme": "aleyn-hershung"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "די": {
       "index": [
@@ -16916,7 +17896,11 @@
             "lexeme": "eyner hot lib dem rebn, un der anderer di rebitsin"
           }
         ]
-      }
+      },
+      "count (collection)": 163,
+      "count (all)": 163,
+      "frequency (collection)": 0.05568841817560642,
+      "frequency (all)": 0.05568841817560642
     },
     "אַרויסגענומען": {
       "index": [
@@ -16946,7 +17930,11 @@
             "lexeme": "khotsh nem un verb)"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "גערעכט": {
       "index": [
@@ -17001,7 +17989,11 @@
             "lexeme": "gerekht iz gerekht"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "אָנגעפאַקטע": {
       "index": [
@@ -17010,7 +18002,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַרשטאָפּט": {
       "index": [
@@ -17032,7 +18028,11 @@
             "lexeme": "farshtop"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "קעגן": {
       "index": [
@@ -17095,7 +18095,11 @@
             "lexeme": "kegn"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "פרעגן": {
       "index": [
@@ -17145,7 +18149,11 @@
             "lexeme": "a freg ton"
           }
         ]
-      }
+      },
+      "count (collection)": 8,
+      "count (all)": 8,
+      "frequency (collection)": 0.0027331738981892723,
+      "frequency (all)": 0.0027331738981892723
     },
     "פריינט": {
       "index": [
@@ -17167,7 +18175,11 @@
             "lexeme": "fraynt"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "לייצעס": {
       "index": [
@@ -17189,7 +18201,11 @@
             "lexeme": "leytse"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שרייפעלע": {
       "index": [
@@ -17219,7 +18235,11 @@
             "lexeme": "shroyf"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "טראַכטן": {
       "index": [
@@ -17310,7 +18330,11 @@
             "lexeme": "trakht"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "אויגן": {
       "index": [
@@ -17398,7 +18422,11 @@
             "lexeme": "oyg oyf oyg"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "שטעלן": {
       "index": [
@@ -17484,7 +18512,11 @@
             "lexeme": "shtel-fartreter"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "כדי": {
       "index": [
@@ -17514,7 +18546,11 @@
             "lexeme": "kedey ayntsushporn tsayt"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "זאָגן": {
       "index": [
@@ -17578,7 +18614,11 @@
             "lexeme": "zog"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "אָבער": {
       "index": [
@@ -17643,7 +18683,11 @@
             "lexeme": "ober tsurikgeredt"
           }
         ]
-      }
+      },
+      "count (collection)": 18,
+      "count (all)": 18,
+      "frequency (collection)": 0.0061496412709258624,
+      "frequency (all)": 0.0061496412709258624
     },
     "העלדן": {
       "index": [
@@ -17668,7 +18712,11 @@
             "lexeme": "held"
           }
         ]
-      }
+      },
+      "count (collection)": 8,
+      "count (all)": 8,
+      "frequency (collection)": 0.0027331738981892723,
+      "frequency (all)": 0.0027331738981892723
     },
     "דעם": {
       "index": [
@@ -18006,7 +19054,11 @@
             "lexeme": "nokh dem vos"
           }
         ]
-      }
+      },
+      "count (collection)": 26,
+      "count (all)": 26,
+      "frequency (collection)": 0.008882815169115136,
+      "frequency (all)": 0.008882815169115136
     },
     "כאַפּן": {
       "index": [
@@ -18073,7 +19125,11 @@
             "lexeme": "khap"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "מיל": {
       "index": [
@@ -18137,7 +19193,11 @@
             "lexeme": "mil"
           }
         ]
-      }
+      },
+      "count (collection)": 46,
+      "count (all)": 46,
+      "frequency (collection)": 0.015715749914588316,
+      "frequency (all)": 0.015715749914588316
     },
     "וועג": {
       "index": [
@@ -18232,7 +19292,11 @@
             "lexeme": "redn fun veg"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "טשוועקל": {
       "index": [
@@ -18254,7 +19318,11 @@
             "lexeme": "tshvok"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "רעדעו": {
       "index": [
@@ -18263,7 +19331,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "מילפינצטערניש": {
       "index": [
@@ -18272,7 +19344,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "זיינען": {
       "index": [
@@ -18299,7 +19375,11 @@
             "lexeme": "bin bist bistu iz zay zaynen zenen zayt zent zaynt zayn geven gevezn"
           }
         ]
-      }
+      },
+      "count (collection)": 11,
+      "count (all)": 11,
+      "frequency (collection)": 0.0037581141100102495,
+      "frequency (all)": 0.0037581141100102495
     },
     "געהעריק": {
       "index": [
@@ -18321,7 +19401,11 @@
             "lexeme": "geherik"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אויסטאָן": {
       "index": [
@@ -18359,7 +19443,11 @@
             "lexeme": "tu"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "זון": {
       "index": [
@@ -18493,7 +19581,11 @@
             "lexeme": "zun-untergang"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "געפינען": {
       "index": [
@@ -18515,7 +19607,11 @@
             "lexeme": "gefin"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "וועטערהאָן": {
       "index": [
@@ -18525,7 +19621,11 @@
       "count (story)": 2,
       "frequency (story)": 0.001358695652173913,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "צעפוקעט": {
       "index": [
@@ -18535,7 +19635,11 @@
       "count (story)": 2,
       "frequency (story)": 0.001358695652173913,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "שיין": {
       "index": [
@@ -18628,7 +19732,11 @@
             "lexeme": "sheyn"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "יידן": {
       "index": [
@@ -18689,7 +19797,11 @@
             "lexeme": "yid"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "פאַפּיר": {
       "index": [
@@ -18699,7 +19811,11 @@
       "count (story)": 2,
       "frequency (story)": 0.001358695652173913,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "פאַרבינדן": {
       "index": [
@@ -18721,7 +19837,11 @@
             "lexeme": "farbind"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "טוט": {
       "index": [
@@ -18788,7 +19908,11 @@
             "lexeme": "tu"
           }
         ]
-      }
+      },
+      "count (collection)": 10,
+      "count (all)": 10,
+      "frequency (collection)": 0.0034164673727365906,
+      "frequency (all)": 0.0034164673727365906
     },
     "רוישט": {
       "index": [
@@ -18810,7 +19934,11 @@
             "lexeme": "roysh"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "זונשטראַלן": {
       "index": [
@@ -18834,7 +19962,11 @@
             "lexeme": "zunshtral"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "באַקוקן": {
       "index": [
@@ -18857,7 +19989,11 @@
             "lexeme": "bakuk"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "שטיינער": {
       "index": [
@@ -18921,7 +20057,11 @@
             "lexeme": "vest bay mir shteyn in kune"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "פינצטער": {
       "index": [
@@ -18955,7 +20095,11 @@
             "lexeme": "fintster"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "דאָ": {
       "index": [
@@ -19032,7 +20176,11 @@
             "lexeme": "do"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "וואַטע": {
       "index": [
@@ -19055,7 +20203,11 @@
             "lexeme": "vate"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "געוואונדערט": {
       "index": [
@@ -19064,7 +20216,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "קינדער": {
       "index": [
@@ -19152,7 +20308,11 @@
             "lexeme": "aynredn a kind in boykh"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "מעסטשטריק": {
       "index": [
@@ -19161,7 +20321,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "יעדן": {
       "index": [
@@ -19186,7 +20350,11 @@
             "lexeme": "yede"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "באַשלאָסן": {
       "index": [
@@ -19231,7 +20399,11 @@
             "lexeme": "bashlis"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "טירן": {
       "index": [
@@ -19292,7 +20464,11 @@
             "lexeme": "fun tir tsu tir"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "זעק": {
       "index": [
@@ -19342,7 +20518,11 @@
             "lexeme": "drekzak"
           }
         ]
-      }
+      },
+      "count (collection)": 8,
+      "count (all)": 8,
+      "frequency (collection)": 0.0027331738981892723,
+      "frequency (all)": 0.0027331738981892723
     },
     "קומט": {
       "index": [
@@ -19389,7 +20569,11 @@
             "lexeme": "kum"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "אוצר": {
       "index": [
@@ -19434,7 +20618,11 @@
             "lexeme": "oytser"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שטיל": {
       "index": [
@@ -19508,7 +20696,11 @@
             "lexeme": "shtil"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "אויך": {
       "index": [
@@ -19566,7 +20758,11 @@
             "lexeme": "oykh"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "שוין": {
       "index": [
@@ -19652,7 +20848,11 @@
             "lexeme": "er hot shoyn gepokt un gemozlt"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "טראָגן": {
       "index": [
@@ -19699,7 +20899,11 @@
             "lexeme": "trog"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "זונשיין": {
       "index": [
@@ -19721,7 +20925,11 @@
             "lexeme": "zu'nenshayn"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ווייסער": {
       "index": [
@@ -19751,7 +20959,11 @@
             "lexeme": "vays"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַקסלען": {
       "index": [
@@ -19798,7 +21010,11 @@
             "lexeme": "aksl"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ענטפערן": {
       "index": [
@@ -19828,7 +21044,11 @@
             "lexeme": "entfer"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ים": {
       "index": [
@@ -19883,7 +21103,11 @@
             "lexeme": "yam_"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "הערט": {
       "index": [
@@ -19945,7 +21169,11 @@
             "lexeme": "her-apara'tl"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "קאַסטנס": {
       "index": [
@@ -19990,7 +21218,11 @@
             "lexeme": "kastn"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַזוי": {
       "index": [
@@ -20096,7 +21328,11 @@
             "lexeme": "glat azoy"
           }
         ]
-      }
+      },
+      "count (collection)": 10,
+      "count (all)": 10,
+      "frequency (collection)": 0.0034164673727365906,
+      "frequency (all)": 0.0034164673727365906
     },
     "מוז": {
       "index": [
@@ -20161,7 +21397,11 @@
             "lexeme": "a muz zakh"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "שורה": {
       "index": [
@@ -20199,7 +21439,11 @@
             "lexeme": "shure"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "האָט": {
       "index": [
@@ -20314,7 +21558,11 @@
             "lexeme": "er hot in mir dos genar"
           }
         ]
-      }
+      },
+      "count (collection)": 42,
+      "count (all)": 42,
+      "frequency (collection)": 0.01434916296549368,
+      "frequency (all)": 0.01434916296549368
     },
     "פירן": {
       "index": [
@@ -20377,7 +21625,11 @@
             "lexeme": "fir"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "בויען": {
       "index": [
@@ -20438,7 +21690,11 @@
             "lexeme": "boy-felik"
           }
         ]
-      }
+      },
+      "count (collection)": 7,
+      "count (all)": 7,
+      "frequency (collection)": 0.0023915271609156134,
+      "frequency (all)": 0.0023915271609156134
     },
     "טאָל": {
       "index": [
@@ -20483,7 +21739,11 @@
             "lexeme": "tol"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַוועק": {
       "index": [
@@ -20541,7 +21801,11 @@
             "lexeme": "avek aveket"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "איר": {
       "index": [
@@ -20653,7 +21917,11 @@
             "lexeme": "ben-ir"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "שעדלעץ": {
       "index": [
@@ -20665,7 +21933,11 @@
       "count (story)": 4,
       "frequency (story)": 0.002717391304347826,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "בויט": {
       "index": [
@@ -20723,7 +21995,11 @@
             "lexeme": "boy-felik"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "אונדזער": {
       "index": [
@@ -20789,7 +22065,11 @@
             "lexeme": "loyt undzer shmues"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "פאָרט": {
       "index": [
@@ -20830,7 +22110,11 @@
             "lexeme": "for"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "אירע": {
       "index": [
@@ -20877,7 +22161,11 @@
             "lexeme": "ire"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פלאַן": {
       "index": [
@@ -20887,7 +22175,11 @@
       "count (story)": 2,
       "frequency (story)": 0.001358695652173913,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "רעדלעך": {
       "index": [
@@ -20909,7 +22201,11 @@
             "lexeme": "rod"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "זיי": {
       "index": [
@@ -20997,7 +22293,11 @@
             "lexeme": "zey"
           }
         ]
-      }
+      },
+      "count (collection)": 29,
+      "count (all)": 29,
+      "frequency (collection)": 0.009907755380936112,
+      "frequency (all)": 0.009907755380936112
     },
     "ליכט": {
       "index": [
@@ -21089,7 +22389,11 @@
             "lexeme": "likht"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "ביזן": {
       "index": [
@@ -21182,7 +22486,11 @@
             "lexeme": "biz"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "געוואָרנט": {
       "index": [
@@ -21235,7 +22543,11 @@
             "lexeme": "vorem vorn"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "נאָר": {
       "index": [
@@ -21315,7 +22627,11 @@
             "lexeme": "men zol nor dermonen moshiyekh"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "דאַרף": {
       "index": [
@@ -21363,7 +22679,11 @@
             "lexeme": "darf"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "מענער": {
       "index": [
@@ -21427,7 +22747,11 @@
             "lexeme": "man un vayb"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "מאַלע": {
       "index": [
@@ -21449,7 +22773,11 @@
             "lexeme": "male"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַראָפּרייסן": {
       "index": [
@@ -21472,7 +22800,11 @@
             "lexeme": "rays"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "אָפצורוען": {
       "index": [
@@ -21481,7 +22813,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אָנהייבן": {
       "index": [
@@ -21554,7 +22890,11 @@
             "lexeme": "heyb"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "אייגענע": {
       "index": [
@@ -21607,7 +22947,11 @@
             "lexeme": "eygn"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פירער": {
       "index": [
@@ -21629,7 +22973,11 @@
             "lexeme": "firer"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "גרין": {
       "index": [
@@ -21695,7 +23043,11 @@
             "lexeme": "grin"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "וואַלצן": {
       "index": [
@@ -21732,7 +23084,11 @@
             "lexeme": "valts"
           }
         ]
-      }
+      },
+      "count (collection)": 8,
+      "count (all)": 8,
+      "frequency (collection)": 0.0027331738981892723,
+      "frequency (all)": 0.0027331738981892723
     },
     "שונאים": {
       "index": [
@@ -21772,7 +23128,11 @@
             "lexeme": "zikh onshteln farn soyne"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "פאַרשריבן": {
       "index": [
@@ -21794,7 +23154,11 @@
             "lexeme": "farshrayb"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ווייסט": {
       "index": [
@@ -21848,7 +23212,11 @@
             "lexeme": "ikh veys nit oyf velkher velt ikh bin"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "צען": {
       "index": [
@@ -21924,7 +23292,11 @@
             "lexeme": "tsvey inem grad tsen"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "הוהאַ": {
       "index": [
@@ -21933,7 +23305,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "וויל": {
       "index": [
@@ -21980,7 +23356,11 @@
             "lexeme": "vil"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "געוואָרן": {
       "index": [
@@ -22066,7 +23446,11 @@
             "lexeme": "ver mir guts gint"
           }
         ]
-      }
+      },
+      "count (collection)": 6,
+      "count (all)": 6,
+      "frequency (collection)": 0.0020498804236419544,
+      "frequency (all)": 0.0020498804236419544
     },
     "אויף": {
       "index": [
@@ -22749,7 +24133,11 @@
             "lexeme": "oyf tsufrier"
           }
         ]
-      }
+      },
+      "count (collection)": 20,
+      "count (all)": 20,
+      "frequency (collection)": 0.006832934745473181,
+      "frequency (all)": 0.006832934745473181
     },
     "לויפן": {
       "index": [
@@ -22779,7 +24167,11 @@
             "lexeme": "shpring-un-loyf"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "בלעך": {
       "index": [
@@ -22830,7 +24222,11 @@
             "lexeme": "blekh"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "גיסן": {
       "index": [
@@ -22885,7 +24281,11 @@
             "lexeme": "gis"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "נאַר": {
       "index": [
@@ -22964,7 +24364,11 @@
             "lexeme": "ba)rimen zikh vi a nar, a shoyte, der khazer"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַרשטייט": {
       "index": [
@@ -22986,7 +24390,11 @@
             "lexeme": "farshtey"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "געשטעלט": {
       "index": [
@@ -23032,7 +24440,11 @@
             "lexeme": "shtel-fartreter"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַרשטייען": {
       "index": [
@@ -23054,7 +24466,11 @@
             "lexeme": "farshtey"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַזש": {
       "index": [
@@ -23101,7 +24517,11 @@
             "lexeme": "azh"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ביים": {
       "index": [
@@ -23229,7 +24649,11 @@
             "lexeme": "bay tsaytns"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "נייע": {
       "index": [
@@ -23291,7 +24715,11 @@
             "lexeme": "nay-sventsya'n sventsyanke"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "זי": {
       "index": [
@@ -23349,7 +24777,11 @@
             "lexeme": "nemen zi in eyn hemd"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "דרייט": {
       "index": [
@@ -23396,7 +24828,11 @@
             "lexeme": "drey'enish"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "ביי": {
       "index": [
@@ -23522,7 +24958,11 @@
             "lexeme": "bay tsaytns"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "ציט": {
       "index": [
@@ -23576,7 +25016,11 @@
             "lexeme": "tsi'enish"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אסיפה": {
       "index": [
@@ -23601,7 +25045,11 @@
             "lexeme": "asife"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "געבליבן": {
       "index": [
@@ -23648,7 +25096,11 @@
             "lexeme": "blayb"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַרשטיי": {
       "index": [
@@ -23670,7 +25122,11 @@
             "lexeme": "farshtey"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "מיטן": {
       "index": [
@@ -23861,7 +25317,11 @@
             "lexeme": "in mitn drinen"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "אַזאַ": {
       "index": [
@@ -23926,7 +25386,11 @@
             "lexeme": "aza yor oyf im"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "ווייס": {
       "index": [
@@ -23993,7 +25457,11 @@
             "lexeme": "ikh veys nit oyf velkher velt ikh bin"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "זאָג": {
       "index": [
@@ -24038,7 +25506,11 @@
             "lexeme": "zog"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "היילל": {
       "index": [
@@ -24047,7 +25519,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַרוואַרפן": {
       "index": [
@@ -24069,7 +25545,11 @@
             "lexeme": "farvarf"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "קליגסטער": {
       "index": [
@@ -24106,7 +25586,11 @@
             "lexeme": "gut/klug/sheyn vi di velt"
           }
         ]
-      }
+      },
+      "count (collection)": 10,
+      "count (all)": 10,
+      "frequency (collection)": 0.0034164673727365906,
+      "frequency (all)": 0.0034164673727365906
     },
     "אויפן": {
       "index": [
@@ -24231,7 +25715,11 @@
             "lexeme": "oyfn onblik"
           }
         ]
-      }
+      },
+      "count (collection)": 15,
+      "count (all)": 15,
+      "frequency (collection)": 0.005124701059104886,
+      "frequency (all)": 0.005124701059104886
     },
     "אָט": {
       "index": [
@@ -24286,7 +25774,11 @@
             "lexeme": "ot"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "שטויב": {
       "index": [
@@ -24348,7 +25840,11 @@
             "lexeme": "shtoyb"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "לייפציק": {
       "index": [
@@ -24357,7 +25853,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "בינדן": {
       "index": [
@@ -24409,7 +25909,11 @@
             "lexeme": "bind"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "קאָמאַנדעווע": {
       "index": [
@@ -24424,7 +25928,11 @@
         "transliteration": "komandeve",
         "stem": "komandeve",
         "definitions": []
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "דער": {
       "index": [
@@ -24491,7 +25999,11 @@
         "transliteration": "der",
         "stem": "der",
         "definitions": []
-      }
+      },
+      "count (collection)": 53,
+      "count (all)": 53,
+      "frequency (collection)": 0.018107277075503928,
+      "frequency (all)": 0.018107277075503928
     },
     "אַריינגאַנג": {
       "index": [
@@ -24513,7 +26025,11 @@
             "lexeme": "arayngang"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ז": {
       "index": [
@@ -24522,7 +26038,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שטייען": {
       "index": [
@@ -24552,7 +26072,11 @@
             "lexeme": "shtey'endik"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "איין": {
       "index": [
@@ -24680,7 +26204,11 @@
             "lexeme": "eyn"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "פרעמדער": {
       "index": [
@@ -24712,7 +26240,11 @@
             "lexeme": "fremd"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "עלפטער": {
       "index": [
@@ -24742,7 +26274,11 @@
             "lexeme": "elf"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ווייל": {
       "index": [
@@ -24766,7 +26302,11 @@
             "lexeme": "veyl"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "אויב": {
       "index": [
@@ -24814,7 +26354,11 @@
             "lexeme": "oyb"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "גיסט": {
       "index": [
@@ -24863,7 +26407,11 @@
             "lexeme": "gib gist git gibn gib"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "טאָגליכט": {
       "index": [
@@ -24885,7 +26433,11 @@
             "lexeme": "toglikht"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "גוואַלד": {
       "index": [
@@ -24930,7 +26482,11 @@
             "lexeme": "iber gvald/gevald"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "הענט": {
       "index": [
@@ -25025,7 +26581,11 @@
             "lexeme": "fun der ershter hant"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "קלוגער": {
       "index": [
@@ -25055,7 +26615,11 @@
             "lexeme": "gut/klug/sheyn vi di velt"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "כעלם": {
       "index": [
@@ -25098,7 +26662,11 @@
           "transliteration": []
         }
       ],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 44,
+      "count (all)": 44,
+      "frequency (collection)": 0.015032456440040998,
+      "frequency (all)": 0.015032456440040998
     },
     "גיין": {
       "index": [
@@ -25293,7 +26861,11 @@
             "lexeme": "geyn mit der puter arop"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "קלאַפּעריי": {
       "index": [
@@ -25315,7 +26887,11 @@
             "lexeme": "kla'penish"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שטראָם": {
       "index": [
@@ -25378,7 +26954,11 @@
             "lexeme": "shtrom"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "מיט": {
       "index": [
@@ -25488,7 +27068,11 @@
             "lexeme": "mi"
           }
         ]
-      }
+      },
+      "count (collection)": 51,
+      "count (all)": 51,
+      "frequency (collection)": 0.01742398360095661,
+      "frequency (all)": 0.01742398360095661
     },
     "ראָד": {
       "index": [
@@ -25541,7 +27125,11 @@
             "lexeme": "rod"
           }
         ]
-      }
+      },
+      "count (collection)": 7,
+      "count (all)": 7,
+      "frequency (collection)": 0.0023915271609156134,
+      "frequency (all)": 0.0023915271609156134
     },
     "געטאָן": {
       "index": [
@@ -25605,7 +27193,11 @@
             "lexeme": "tu"
           }
         ]
-      }
+      },
+      "count (collection)": 5,
+      "count (all)": 5,
+      "frequency (collection)": 0.0017082336863682953,
+      "frequency (all)": 0.0017082336863682953
     },
     "ווירעס": {
       "index": [
@@ -25627,7 +27219,11 @@
             "lexeme": "vire"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "אַנדער": {
       "index": [
@@ -25676,7 +27272,11 @@
             "lexeme": "ander"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פרעמדן": {
       "index": [
@@ -25706,7 +27306,11 @@
             "lexeme": "fremd"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "קאָנען": {
       "index": [
@@ -25787,7 +27391,11 @@
             "lexeme": "oyskhapn dem kon"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "שדים": {
       "index": [
@@ -25811,7 +27419,11 @@
             "lexeme": "sheyd_"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "גלייך": {
       "index": [
@@ -25948,7 +27560,11 @@
             "lexeme": "glaykh"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "האָבן": {
       "index": [
@@ -26300,7 +27916,11 @@
             "lexeme": "hobn a forurtl"
           }
         ]
-      }
+      },
+      "count (collection)": 35,
+      "count (all)": 35,
+      "frequency (collection)": 0.011957635804578067,
+      "frequency (all)": 0.011957635804578067
     },
     "אָפּגעמאַכט": {
       "index": [
@@ -26322,7 +27942,11 @@
             "lexeme": "makh"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "עמערס": {
       "index": [
@@ -26347,7 +27971,11 @@
             "lexeme": "emer"
           }
         ]
-      }
+      },
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "פאַפיר": {
       "index": [
@@ -26356,7 +27984,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "פאַר": {
       "index": [
@@ -26602,7 +28234,11 @@
             "lexeme": "far|keyfl|"
           }
         ]
-      }
+      },
+      "count (collection)": 7,
+      "count (all)": 7,
+      "frequency (collection)": 0.0023915271609156134,
+      "frequency (all)": 0.0023915271609156134
     },
     "מילראָד": {
       "index": [
@@ -26614,7 +28250,11 @@
       "count (story)": 4,
       "frequency (story)": 0.002717391304347826,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 4,
+      "count (all)": 4,
+      "frequency (collection)": 0.0013665869490946361,
+      "frequency (all)": 0.0013665869490946361
     },
     "מילהאָד": {
       "index": [
@@ -26623,7 +28263,11 @@
       "count (story)": 1,
       "frequency (story)": 0.0006793478260869565,
       "wiktionary": [],
-      "kentucky": []
+      "kentucky": [],
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "ווערט": {
       "index": [
@@ -26742,7 +28386,11 @@
             "lexeme": "ver mir guts gint"
           }
         ]
-      }
+      },
+      "count (collection)": 3,
+      "count (all)": 3,
+      "frequency (collection)": 0.0010249402118209772,
+      "frequency (all)": 0.0010249402118209772
     },
     "זיצט": {
       "index": [
@@ -26772,7 +28420,11 @@
             "lexeme": "zits"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     },
     "מע": {
       "index": [
@@ -26811,7 +28463,11 @@
         "transliteration": "me",
         "stem": "me",
         "definitions": []
-      }
+      },
+      "count (collection)": 13,
+      "count (all)": 13,
+      "frequency (collection)": 0.004441407584557568,
+      "frequency (all)": 0.004441407584557568
     },
     "זאָגט": {
       "index": [
@@ -26868,7 +28524,11 @@
             "lexeme": "zog"
           }
         ]
-      }
+      },
+      "count (collection)": 18,
+      "count (all)": 18,
+      "frequency (collection)": 0.0061496412709258624,
+      "frequency (all)": 0.0061496412709258624
     },
     "רעדעלע": {
       "index": [
@@ -26890,7 +28550,11 @@
             "lexeme": "rod"
           }
         ]
-      }
+      },
+      "count (collection)": 1,
+      "count (all)": 1,
+      "frequency (collection)": 0.00034164673727365904,
+      "frequency (all)": 0.00034164673727365904
     },
     "טומלט": {
       "index": [
@@ -26921,7 +28585,11 @@
             "lexeme": "tuml"
           }
         ]
-      }
+      },
+      "count (collection)": 2,
+      "count (all)": 2,
+      "frequency (collection)": 0.0006832934745473181,
+      "frequency (all)": 0.0006832934745473181
     }
   }
 }
